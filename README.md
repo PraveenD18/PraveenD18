@@ -1,4 +1,4 @@
-# About Me:
+# About me:
   
 ## Tech Stack
 
@@ -13,4 +13,20 @@
 **Description:**
 
 The Concert Booking website is a platform designed to simplify the process of booking tickets for music concerts, providing users with an easy and enjoyable experience.
+</details>
+<details> <summary><strong>Career Chooser - ML</strong></summary>
+
+**Project Link:** [Career Chooser GitHub](https://github.com/PraveenD18/CAREER-CHOOSER)
+
+**Description:**
+
+Career Chooser helps the students to acknowledge their career path on their own using this application 
+</details>
+<details> <summary><strong>Parkinson's disease prediction - ML || DL</strong></summary>
+
+**Project Link:** [PDP GitHub](https://github.com/PraveenD18/PARKINSONS-DISEASE-PREDICTION)
+
+**Description:**
+
+Parkinson's disease prediction has played a major in medical revolution || The disease can be cured when it been predicted earlier with some symptoms.
 </details>
